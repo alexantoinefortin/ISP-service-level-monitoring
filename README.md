@@ -37,4 +37,4 @@ Simply run `pipenv run python -m pytest -vv`
 
 ## License
 
-MIT
+[MIT](https://github.com/alexantoinefortin/ISP-service-level-monitoring/blob/master/LICENSE)
